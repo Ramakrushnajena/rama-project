@@ -113,6 +113,7 @@ h5 {
     margin-left: 200px;
     font-weight: bolder;
     cursor: pointer;
+    text-decoration: none;
 }
 .link-primary2{
     background-color: rgb(159, 139, 116);
@@ -132,6 +133,8 @@ h5 {
 .end .last {
     text-align: center;
     margin-top: 120px;
+    font-family: Calibri;
+    font-size: 35px;
 }
 /* JAVA SCRIPT */
 
