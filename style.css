@@ -125,7 +125,37 @@ h5 {
     cursor: pointer;   
 }
 
+#mode-toggle{
+    cursor: pointer;
+}
+
 .end .last {
     text-align: center;
     margin-top: 120px;
+}
+/* JAVA SCRIPT */
+
+body.dark-mode {
+    background-color: black;
+    color: white;
+} 
+
+body.dark-mode .hero {
+    color: white;
+}
+
+body.dark-mode .para {
+    color: white;
+}
+
+body.dark-mode .link-primary {
+    color: white;
+}
+
+body.dark-mode .link-primary2 {
+    color: black;
+}
+
+body.dark-mode .navigation .link {
+    color: white;
 }
